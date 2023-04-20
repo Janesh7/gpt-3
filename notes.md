@@ -115,3 +115,27 @@ Now everything is arranged to start coding
 
 
 Now everything is structure
+
+
+
+
+# CSS
+
+Refer App.css and index.css comments
+
+
+
+import index.css to use vars throuhgout
+
+
+IMP:
+
+
+angrytools.com/gradeint
+- Above site to get the gradient color , Use different options like gradient type and its axis
+- This would give the code, copy and use it in code
+
+
+
+animista.net
+- Above site to get cool animations 

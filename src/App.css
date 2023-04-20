@@ -7,13 +7,17 @@
 }
 
 body {
-  background: var(--color-bg);
+  background: var(--color-bg); /*css variable for background color*/
+  /* This is defined in index.css */
 }
 
 a {
   color: unset;
   text-decoration: none;
 }
+
+
+/* Define Classes */
 
 .gradient__bg {
   background:-moz-radial-gradient(circle at 3% 25%, rgba(0, 40, 83, 1) 0%, rgba(4, 12, 24, 1) 25%);
@@ -73,6 +77,17 @@ a {
   }
 }
 
+
+/* For Media queries 
+
+   @media rule is used in media query to aplly different styles for different media types/device.
+*/
+
+
+
+
+/* Middle sized devices */
+
 @media screen and (max-width: 700px) {
   .section__padding {
     padding: 4rem;
@@ -83,6 +98,8 @@ a {
   }
 }
 
+
+/* Mobile devices */
 @media screen and (max-width: 550px) {
   .section__padding {
     padding: 4rem 2rem;
