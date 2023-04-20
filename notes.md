@@ -1,10 +1,11 @@
-To create a react app
+# To create a react app
 
 
 ```
 npx create-react-app
 ```
 
+# Start and File structure
 
  Basic imports 
  ```
@@ -78,4 +79,39 @@ import {Article, features, CTA} from './components';
 
 
 
-These components would also have blog.jsx and blog.css ,etc
+These Containers would also have blog.jsx and blog.css ,etc
+
+
+- These Containers folder will also have index.js with all the export statements
+
+```
+export { default as Header } from './header/Header';
+```
+
+for all files
+
+and import it in Appp.js using
+
+```
+import {Header, Footer, Blog} from './containers';
+```
+
+
+
+Now everything is arranged to start coding
+
+
+- In the return statement add a div, give it a *<div classname="App">*
+- Make another div with clasname "gradeint__bg"
+- Add components like Header and navbar using
+
+```
+<Navbar />
+<Header />
+```
+- Close the div , and add other containers like Brand, WhatGPT3, Features,... using the above syntax
+- Close the main div
+
+
+
+Now everything is structure
