@@ -46,3 +46,36 @@ import './article.css';
 
 
 Now in App.js we need to import these, can be done through
+```
+import Article from './components/article/Article'
+```
+for all the files
+
+
+
+Instead we can make an index.js file IN COMPONENTS and import all the components there using
+```
+export { default as Article } from './article/Article';
+```
+for al the files
+
+
+
+
+
+Now to import all the components do this in App.js
+
+```
+import {Article, features, CTA} from './components';
+```
+
+
+
+
+
+<b> As components are used to structure files. Containers are used to structure bigger files , it contains multiple components, like header, footer, blog , etc </b>
+
+
+
+
+These components would also have blog.jsx and blog.css ,etc
