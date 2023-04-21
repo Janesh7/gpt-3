@@ -117,6 +117,9 @@ Now everything is arranged to start coding
 Now everything is structure
 
 
+src folder has an assest folder to store all the pictures,etc
+
+
 
 
 # CSS
@@ -139,3 +142,8 @@ angrytools.com/gradeint
 
 animista.net
 - Above site to get cool animations 
+
+
+
+
+BEM -> Block Element Modifier : CSS naming conevntion like gpt3__navbar, under which gpt3__navbar__links and so on
