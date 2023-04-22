@@ -147,3 +147,11 @@ animista.net
 
 
 BEM -> Block Element Modifier : CSS naming conevntion like gpt3__navbar, under which gpt3__navbar__links and so on
+
+
+
+
+Screen Sizes:
+- Mobile: 550 px
+- Tab: 700 px
+- PC: 1050 px
