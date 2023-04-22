@@ -31,7 +31,11 @@
     flex: 1;
 
     display:grid;
+/* Makes a grid */
+
     grid-template-columns: repeat(2, 1fr);
+/*  Repeat 2 blogs per row */
+
     grid-gap: 2rem;
 }
 
@@ -46,6 +50,7 @@
     }
 
     .gpt3__blog-container_groupA .gpt3__blog-container_article  {
+        /* going inside a clas under a class */
        width: 48%;
     }
 
@@ -57,6 +62,7 @@
 @media screen and (max-width: 700px) {
     .gpt3__blog-container_groupB {
         grid-template-columns: repeat(1, 1fr);
+        /* 1 article per row */
     }
 
     .gpt3__blog-container_groupA .gpt3__blog-container_article  {

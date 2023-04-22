@@ -1,6 +1,8 @@
 .gpt3__cta {
     display: flex;
     justify-content: space-between;
+    /* will move the button to the right side */
+    
     align-items: center;
     flex-direction: row;
 
