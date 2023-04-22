@@ -122,6 +122,10 @@ src folder has an assest folder to store all the pictures,etc
 
 
 
+
+Now, we can also create imports.js to import all the stuff we need for a feature like all blogs, etc.
+
+
 # CSS
 
 Refer App.css and index.css comments
