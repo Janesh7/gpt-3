@@ -20,17 +20,10 @@ Frontend: ReactJS, CSS
 
 
 ![App Screenshot](https://github.com/Janesh7/gpt-3/blob/main/src/assets/ss1.png?raw=true)
-
 ![App Screenshot](https://github.com/Janesh7/gpt-3/blob/main/src/assets/ss2.png?raw=true)
-
 ![App Screenshot](https://github.com/Janesh7/gpt-3/blob/main/src/assets/ss3.png?raw=true)
-
 ![App Screenshot](https://github.com/Janesh7/gpt-3/blob/main/src/assets/ss4.png?raw=true)
-
 ![App Screenshot](https://github.com/Janesh7/gpt-3/blob/main/src/assets/ss5.png?raw=true)
-
 ![App Screenshot](https://github.com/Janesh7/gpt-3/blob/main/src/assets/ss6.png?raw=true)
-
 ![App Screenshot](https://github.com/Janesh7/gpt-3/blob/main/src/assets/ss7.png?raw=true)
-
 ![App Screenshot](https://github.com/Janesh7/gpt-3/blob/main/src/assets/ss8.png?raw=true)
