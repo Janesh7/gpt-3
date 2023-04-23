@@ -29,9 +29,9 @@ const Navbar = () => {
           ? <RiCloseLine color="#fff" size={27} onClick={() => setToggleMenu(false)} />
           : <RiMenu3Line color="#fff" size={27} onClick={() => setToggleMenu(true)} />}
         {toggleMenu && (
-        <div className="gpt3__navbar-menu_container scale-up-center">  
-        {/* Add the animation, This is used for mobile apps as the nav bar element disappears and the R1menu3Line icon is shown upon clicking that  */}
-        {/* And all the element is shown their */}
+        <div className="gpt3__navbar-menu_container scale-up-center">
+          {/* Add the animation, This is used for mobile apps as the nav bar element disappears and the R1menu3Line icon is shown upon clicking that  */}
+          {/* And all the element is shown their */}
           <div className="gpt3__navbar-menu_container-links">
             <p><a href="#home">Home</a></p>
             <p><a href="#wgpt3">What is GPT3?</a></p>
