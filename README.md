@@ -11,6 +11,6 @@ Figma design Link:
 
 ## Tech Stack
 
-Frontend: ReactJS
+Frontend: ReactJS, CSS
 
-![My Skills](https://skills.thijs.gg/icons?i=reactjs,css)
+![My Skills](https://skills.thijs.gg/icons?i=react,css)
